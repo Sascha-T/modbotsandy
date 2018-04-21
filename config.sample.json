@@ -1,0 +1,13 @@
+{
+    "db": {
+        "database": "modbot",
+        "password": "donotshare",
+        "host": "somewherebeyondtherainbow",
+        "port": 28015
+    },
+    "discord": {
+        "token": "tkn",
+        "prefix": "prefix",
+        "owner": "id"
+    }
+}
